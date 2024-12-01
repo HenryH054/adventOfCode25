@@ -105,6 +105,7 @@ int main() {
   int n2 = l2.size();
   mergeSort(l1, 0, n1 - 1);
   mergeSort(l2, 0, n2 - 1);
-  std::cout << similarityScore(l1, l2);
+  std::cout << "Difference in ID: " << compareVector(l1, l2)
+            << "\nSimilarity in ID: " << similarityScore(l1, l2) << "\n";
   return 0;
 }
