@@ -37,7 +37,7 @@ int checkRow(std::vector<int> nums, int i) {
 int safeOrUnsafe(std::vector<std::vector<int>> vals) {
   int totSafe = 0;
   for (std::vector<int> i : vals) {
-    if (!checkRow(i)) {
+    if (checkRow(i) < 0) {
       totSafe++;
     }
   }
