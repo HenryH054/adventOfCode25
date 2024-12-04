@@ -156,5 +156,6 @@ int main() {
 
   file.close();
 
-  cout << "Matches: " << crossSearch(rows, "MAS") << "\n";
+  cout << "XMAS Matches: " << search(rows, "XMAS") << "\n";
+  cout << "Cross MAS Matches: " << crossSearch(rows, "MAS") << "\n";
 }
