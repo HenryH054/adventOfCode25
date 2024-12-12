@@ -1,0 +1,274 @@
+R: Finding sides at 0, 0 Current Sides: 0
+we got a twofer
+Continuous Sides +2
+Finding sides at 0, 1 Current Sides: 1
+count == 1 or flag hit
+Finding sides at 0, 2 Current Sides: 1
+count == 1 or flag hit
+Finding sides at 0, 3 Current Sides: 1
+we got a twofer
+Continuous Sides +2
+Finding sides at 1, 3 Current Sides: 2
+count == 1 or flag hit
+Finding sides at 2, 3 Current Sides: 2
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 2, 2 Current Sides: 3
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 3, 2 Current Sides: 4
+Three empty Sides +2
+Inside corner on bottom left Sides +1
+Finding sides at 2, 4 Current Sides: 7
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+Finding sides at 1, 2 Current Sides: 10
+Finding sides at 1, 1 Current Sides: 10
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 1, 0 Current Sides: 11
+we got a twofer
+Continuous Sides +2
+12
+I: Finding sides at 0, 4 Current Sides: 0
+we got a twofer
+Continuous Sides +2
+Finding sides at 0, 5 Current Sides: 1
+we got a twofer
+Continuous Sides +2
+Finding sides at 1, 5 Current Sides: 2
+we got a twofer
+Continuous Sides +2
+Finding sides at 1, 4 Current Sides: 3
+we got a twofer
+Continuous Sides +2
+4
+C: Finding sides at 0, 6 Current Sides: 0
+we got a twofer
+Continuous Sides +2
+Finding sides at 0, 7 Current Sides: 1
+we got a twofer
+Continuous Sides +2
+Finding sides at 1, 7 Current Sides: 2
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 1, 8 Current Sides: 3
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+Finding sides at 1, 6 Current Sides: 6
+count == 1 or flag hit
+Finding sides at 2, 6 Current Sides: 6
+we got a twofer
+Continuous Sides +2
+Finding sides at 2, 5 Current Sides: 7
+we got a twofer
+Continuous Sides +2
+Finding sides at 3, 5 Current Sides: 8
+we got a twofer
+Continuous Sides +2
+Finding sides at 3, 4 Current Sides: 9
+count == 1 or flag hit
+Finding sides at 3, 3 Current Sides: 9
+Three empty Sides +2
+Finding sides at 4, 4 Current Sides: 11
+we got a twofer
+has been flagged
+count == 1 or flag hit
+Finding sides at 5, 4 Current Sides: 11
+we got a twofer
+Continuous Sides +2
+Finding sides at 5, 5 Current Sides: 12
+we got a twofer
+Continuous Sides +2
+Finding sides at 6, 5 Current Sides: 13
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+16
+F: Finding sides at 0, 8 Current Sides: 0
+Three empty Sides +2
+Finding sides at 0, 9 Current Sides: 2
+we got a twofer
+Continuous Sides +2
+Finding sides at 1, 9 Current Sides: 3
+we got a twofer
+has been flagged
+count == 1 or flag hit
+Finding sides at 2, 9 Current Sides: 3
+count == 1 or flag hit
+Finding sides at 2, 8 Current Sides: 3
+count == 1 or flag hit
+Finding sides at 2, 7 Current Sides: 3
+we got a twofer
+Continuous Sides +2
+Finding sides at 3, 7 Current Sides: 4
+we got a twofer
+Continuous Sides +2
+Finding sides at 3, 8 Current Sides: 5
+Finding sides at 4, 8 Current Sides: 5
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+Inside corner on bottom left Sides +1
+Finding sides at 3, 9 Current Sides: 9
+we got a twofer
+Continuous Sides +2
+10
+V: Finding sides at 2, 0 Current Sides: 0
+we got a twofer
+Continuous Sides +2
+Finding sides at 2, 1 Current Sides: 1
+we got a twofer
+Continuous Sides +2
+Finding sides at 3, 1 Current Sides: 2
+count == 1 or flag hit
+Finding sides at 4, 1 Current Sides: 2
+Finding sides at 4, 0 Current Sides: 2
+count == 1 or flag hit
+Finding sides at 5, 0 Current Sides: 2
+count == 1 or flag hit
+Finding sides at 6, 0 Current Sides: 2
+we got a twofer
+Continuous Sides +2
+Finding sides at 6, 1 Current Sides: 3
+we got a twofer
+Continuous Sides +2
+Finding sides at 4, 2 Current Sides: 4
+we got a twofer
+has been flagged
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 4, 3 Current Sides: 5
+we got a twofer
+Continuous Sides +2
+Finding sides at 5, 3 Current Sides: 6
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+Finding sides at 5, 1 Current Sides: 9
+count == 1 or flag hit
+Finding sides at 3, 0 Current Sides: 9
+count == 1 or flag hit
+9
+J: Finding sides at 3, 6 Current Sides: 0
+Three empty Sides +2
+Finding sides at 4, 6 Current Sides: 2
+count == 1 or flag hit
+Finding sides at 4, 5 Current Sides: 2
+Three empty Sides +2
+Inside corner on bottom left Sides +1
+Finding sides at 5, 6 Current Sides: 5
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 5, 7 Current Sides: 6
+we got a twofer
+Continuous Sides +2
+Finding sides at 6, 7 Current Sides: 7
+count == 1 or flag hit
+Finding sides at 7, 7 Current Sides: 7
+we got a twofer
+Continuous Sides +2
+Finding sides at 7, 6 Current Sides: 8
+count == 1 or flag hit
+Finding sides at 8, 6 Current Sides: 8
+we got a twofer
+has been flagged
+count == 1 or flag hit
+Finding sides at 9, 6 Current Sides: 8
+Three empty Sides +2
+Finding sides at 6, 6 Current Sides: 10
+count == 1 or flag hit
+10
+C: Finding sides at 4, 7 Current Sides: 0
+4
+E: Finding sides at 4, 9 Current Sides: 0
+Three empty Sides +2
+Finding sides at 5, 9 Current Sides: 2
+count == 1 or flag hit
+Finding sides at 5, 8 Current Sides: 2
+we got a twofer
+Continuous Sides +2
+Finding sides at 6, 8 Current Sides: 3
+count == 1 or flag hit
+Finding sides at 7, 8 Current Sides: 3
+count == 1 or flag hit
+Finding sides at 7, 9 Current Sides: 3
+count == 1 or flag hit
+Finding sides at 8, 9 Current Sides: 3
+count == 1 or flag hit
+Finding sides at 9, 9 Current Sides: 3
+we got a twofer
+Continuous Sides +2
+Finding sides at 9, 8 Current Sides: 4
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 9, 7 Current Sides: 5
+we got a twofer
+Continuous Sides +2
+Finding sides at 8, 7 Current Sides: 6
+we got a twofer
+Continuous Sides +2
+Finding sides at 8, 8 Current Sides: 7
+Finding sides at 6, 9 Current Sides: 7
+count == 1 or flag hit
+7
+I: Finding sides at 5, 2 Current Sides: 0
+Three empty Sides +2
+Finding sides at 6, 2 Current Sides: 2
+count == 1 or flag hit
+Finding sides at 6, 3 Current Sides: 2
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 6, 4 Current Sides: 3
+we got a twofer
+Continuous Sides +2
+Finding sides at 7, 4 Current Sides: 4
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 7, 5 Current Sides: 5
+we got a twofer
+Continuous Sides +2
+Finding sides at 8, 5 Current Sides: 6
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+Finding sides at 7, 3 Current Sides: 9
+Finding sides at 8, 3 Current Sides: 9
+count == 1 or flag hit
+Finding sides at 8, 2 Current Sides: 9
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 8, 1 Current Sides: 10
+we got a twofer
+Continuous Sides +2
+Finding sides at 7, 1 Current Sides: 11
+we got a twofer
+Continuous Sides +2
+Finding sides at 9, 3 Current Sides: 12
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+Finding sides at 7, 2 Current Sides: 15
+15
+M: Finding sides at 7, 0 Current Sides: 0
+Three empty Sides +2
+Finding sides at 8, 0 Current Sides: 2
+we got a twofer
+has been flagged
+count == 1 or flag hit
+Finding sides at 9, 0 Current Sides: 2
+we got a twofer
+Continuous Sides +2
+Finding sides at 9, 1 Current Sides: 3
+we got a twofer
+has been flagged
+count == 1 or flag hit
+Inside corner on bottom right
+Finding sides at 9, 2 Current Sides: 4
+Three empty Sides +2
+6
+S: Finding sides at 8, 4 Current Sides: 0
+Three empty Sides +2
+Finding sides at 9, 4 Current Sides: 2
+we got a twofer
+Continuous Sides +2
+Finding sides at 9, 5 Current Sides: 3
+Three empty Sides +2
+Inside corner on bottom right Sides +1
+6
+0
